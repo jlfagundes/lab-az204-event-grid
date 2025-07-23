@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "a/uTX3GJkh8=",
+  "dgSpecHash": "N/q1oD7v+Cc=",
   "success": true,
   "projectFilePath": "C:\\Users\\jose.luiz.fagundes\\Learn Development\\az204-event-grid\\az204-event-grid.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jose.luiz.fagundes\\.nuget\\packages\\azure.core\\1.46.2\\azure.core.1.46.2.nupkg.sha512",
+    "C:\\Users\\jose.luiz.fagundes\\.nuget\\packages\\azure.messaging.eventgrid\\5.0.0\\azure.messaging.eventgrid.5.0.0.nupkg.sha512",
+    "C:\\Users\\jose.luiz.fagundes\\.nuget\\packages\\azure.messaging.eventgrid.systemevents\\1.0.0\\azure.messaging.eventgrid.systemevents.1.0.0.nupkg.sha512",
+    "C:\\Users\\jose.luiz.fagundes\\.nuget\\packages\\dotenv.net\\4.0.0\\dotenv.net.4.0.0.nupkg.sha512",
+    "C:\\Users\\jose.luiz.fagundes\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "C:\\Users\\jose.luiz.fagundes\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\jose.luiz.fagundes\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.3\\microsoft.extensions.logging.abstractions.8.0.3.nupkg.sha512",
+    "C:\\Users\\jose.luiz.fagundes\\.nuget\\packages\\system.clientmodel\\1.4.2\\system.clientmodel.1.4.2.nupkg.sha512",
+    "C:\\Users\\jose.luiz.fagundes\\.nuget\\packages\\system.memory.data\\6.0.1\\system.memory.data.6.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
