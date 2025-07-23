@@ -1,0 +1,29 @@
+# Environment variables (contains sensitive data)
+.env
+.env.local
+.env.development
+.env.production
+
+# Build outputs
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+*.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
